@@ -1,6 +1,6 @@
 import { StyleSheet } from "react-native";
 import { ThemedView } from "@/components/ThemedView";
-import Captcha from "@/components/Captcha";
+import Captcha from "@/components/captcha";
 
 export default function Index() {
   return (
